@@ -4,3 +4,5 @@ module.exports = {
     multiplicar: (a,b) => a*b,
     dividir: (a,b) => a/b
     }
+
+    let hola= 1;
